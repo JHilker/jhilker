@@ -1,0 +1,11 @@
+{
+  "name": "jhilker",
+  "version": "1.0.0",
+  "description": "A personal card for Jacob Hilker (@JHilker)",
+  "bin": {
+    "jhilker": "./bin/jhilker.js"
+  },
+  "repository": "git@github.com:JHilker/jhilker.git",
+  "author": "Jacob Hilker <jhilker@hubspot.com>",
+  "license": "MIT"
+}
